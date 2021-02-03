@@ -1,4 +1,12 @@
-### Hi there 👋
+### Always Learning :bulb:
+
+
+- :mortar_board: BE in School of Electronic Engineering, Kyungpook National University
+- :books: Learning: Python, C, C++
+- :pencil2: familiar with: Java
+
+~ updating my profile ~
+
 
 <!--
 **kang-my/kang-my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
