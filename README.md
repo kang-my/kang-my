@@ -3,7 +3,7 @@
 
 - :mortar_board: BE in School of Electronic Engineering, Kyungpook National University
 - :books: Learning: Python, C, C++
-- :pencil2: familiar with: Java
+- :pencil2: familier with: Java, html
 
 ~ updating my profile ~
 
